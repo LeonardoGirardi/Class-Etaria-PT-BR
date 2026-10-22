@@ -1,0 +1,8 @@
+# Versões fixadas: a extração de texto (sobretudo de PDF) precisa ser
+# idêntica à da construção do conjunto para os hashes do manifesto baterem.
+pandas==3.0.2
+numpy==2.4.4
+pypdf==6.19.0
+requests==2.33.1
+pylangacq==0.23.0
+kagglehub==1.0.1
